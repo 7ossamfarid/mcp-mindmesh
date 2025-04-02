@@ -23,7 +23,7 @@ A Model Context Protocol (MCP) server implementation that creates a quantum-insp
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/mcp-mindmesh.git
+   git clone https://github.com/wheattoast11/mcp-mindmesh.git
    cd mcp-mindmesh
    ```
 
