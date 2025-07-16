@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/7ossamfarid-mcp-mindmesh-badge.png)](https://mseep.ai/app/7ossamfarid-mcp-mindmesh)
+
 ```markdown
 # 🌌 MCP MindMesh: Orchestrating Intelligent Swarms 🌌
 
